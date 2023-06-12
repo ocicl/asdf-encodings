@@ -1,0 +1,9 @@
+* asdf-encodings
+
+Portable interface to character encodings and your implementation's external-format
+
+|---------+------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/asdf/asdf-encodings.git |
+| commit  | 40a8670                                                    |
+| systems | asdf-encodings                                             |
+|---------+------------------------------------------------------------|
